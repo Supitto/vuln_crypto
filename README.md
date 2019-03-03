@@ -1,2 +1,2 @@
 - Build a container that runs startup.sh.
- -Run it with "docker run -p 9998:9998 --restart always chall", so if anything crashes, the container will restart right alway
+- Run it with "docker run -p 9998:9998 --restart always chall", so if anything crashes, the container will restart right alway
