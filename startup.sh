@@ -1,0 +1,2 @@
+python startup.py
+./server
